@@ -1,0 +1,14 @@
+D:\Project\Template\NET\ExCore.RFS\ExCore.RFS.Data\obj\Debug\net7.0\ExCore.RFS.Data.csproj.AssemblyReference.cache
+D:\Project\Template\NET\ExCore.RFS\ExCore.RFS.Data\obj\Debug\net7.0\ExCore.RFS.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Template\NET\ExCore.RFS\ExCore.RFS.Data\obj\Debug\net7.0\ExCore.RFS.Data.AssemblyInfoInputs.cache
+D:\Project\Template\NET\ExCore.RFS\ExCore.RFS.Data\obj\Debug\net7.0\ExCore.RFS.Data.AssemblyInfo.cs
+D:\Project\Template\NET\ExCore.RFS\ExCore.RFS.Data\obj\Debug\net7.0\ExCore.RFS.Data.csproj.CoreCompileInputs.cache
+D:\Project\Template\NET\ExCore.RFS\ExCore.RFS.Data\bin\Debug\net7.0\ExCore.RFS.Data.deps.json
+D:\Project\Template\NET\ExCore.RFS\ExCore.RFS.Data\bin\Debug\net7.0\ExCore.RFS.Data.runtimeconfig.json
+D:\Project\Template\NET\ExCore.RFS\ExCore.RFS.Data\bin\Debug\net7.0\ExCore.RFS.Data.dll
+D:\Project\Template\NET\ExCore.RFS\ExCore.RFS.Data\bin\Debug\net7.0\ExCore.RFS.Data.pdb
+D:\Project\Template\NET\ExCore.RFS\ExCore.RFS.Data\obj\Debug\net7.0\ExCore.RFS.Data.dll
+D:\Project\Template\NET\ExCore.RFS\ExCore.RFS.Data\obj\Debug\net7.0\refint\ExCore.RFS.Data.dll
+D:\Project\Template\NET\ExCore.RFS\ExCore.RFS.Data\obj\Debug\net7.0\ExCore.RFS.Data.pdb
+D:\Project\Template\NET\ExCore.RFS\ExCore.RFS.Data\obj\Debug\net7.0\ExCore.RFS.Data.genruntimeconfig.cache
+D:\Project\Template\NET\ExCore.RFS\ExCore.RFS.Data\obj\Debug\net7.0\ref\ExCore.RFS.Data.dll

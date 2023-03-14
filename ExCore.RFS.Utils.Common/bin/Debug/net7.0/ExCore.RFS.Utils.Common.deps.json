@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ExCore.RFS.Utils.Common/1.0.0": {
+        "dependencies": {
+          "System.Linq.Dynamic.Core": "1.3.1"
+        },
+        "runtime": {
+          "ExCore.RFS.Utils.Common.dll": {}
+        }
+      },
+      "System.Linq.Dynamic.Core/1.3.1": {
+        "runtime": {
+          "lib/net7.0/System.Linq.Dynamic.Core.dll": {
+            "assemblyVersion": "1.3.1.0",
+            "fileVersion": "1.3.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExCore.RFS.Utils.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Linq.Dynamic.Core/1.3.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XkXCpIrkwuOHOa4OPVZONgCoSIPNRXJbvIrxsu1Bm2Cqhl4KdbTYETVOtKZ8XW65U6RD2ng3me2isTpZZAjJJA==",
+      "path": "system.linq.dynamic.core/1.3.1",
+      "hashPath": "system.linq.dynamic.core.1.3.1.nupkg.sha512"
+    }
+  }
+}

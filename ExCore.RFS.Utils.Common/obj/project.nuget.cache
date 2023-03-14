@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vfaS1oGZ7KcYegNsfQItI+3fzBWFVOYkSnJbRXLF1zQSL4Tp7cs7NKNDe7z2UzF8FnLp/Wfh8QMtPe2LuxxPdQ==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\Template\\NET\\ExCore.RFS\\ExCore.RFS.Utils.Common\\ExCore.RFS.Utils.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\buiqu\\.nuget\\packages\\system.linq.dynamic.core\\1.3.1\\system.linq.dynamic.core.1.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

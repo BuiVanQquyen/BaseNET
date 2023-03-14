@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ExCore.RFS.Data\ExCore.RFS.Data.csproj" />
+    <ProjectReference Include="..\ExCore.RFS.Utils.Repository\ExCore.RFS.Utils.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

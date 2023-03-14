@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ExCore.RFS.API.props" />
+</Project>

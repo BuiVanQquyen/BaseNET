@@ -1,0 +1,15 @@
+D:\Project\Template\NET\ExCore.RFS\ExCore.RFS.Utils.Repository\bin\Debug\net7.0\ExCore.RFS.Utils.Repository.deps.json
+D:\Project\Template\NET\ExCore.RFS\ExCore.RFS.Utils.Repository\bin\Debug\net7.0\ExCore.RFS.Utils.Repository.dll
+D:\Project\Template\NET\ExCore.RFS\ExCore.RFS.Utils.Repository\bin\Debug\net7.0\ExCore.RFS.Utils.Repository.pdb
+D:\Project\Template\NET\ExCore.RFS\ExCore.RFS.Utils.Repository\bin\Debug\net7.0\ExCore.RFS.Utils.Common.dll
+D:\Project\Template\NET\ExCore.RFS\ExCore.RFS.Utils.Repository\bin\Debug\net7.0\ExCore.RFS.Utils.Common.pdb
+D:\Project\Template\NET\ExCore.RFS\ExCore.RFS.Utils.Repository\obj\Debug\net7.0\ExCore.RFS.Utils.Repository.csproj.AssemblyReference.cache
+D:\Project\Template\NET\ExCore.RFS\ExCore.RFS.Utils.Repository\obj\Debug\net7.0\ExCore.RFS.Utils.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Template\NET\ExCore.RFS\ExCore.RFS.Utils.Repository\obj\Debug\net7.0\ExCore.RFS.Utils.Repository.AssemblyInfoInputs.cache
+D:\Project\Template\NET\ExCore.RFS\ExCore.RFS.Utils.Repository\obj\Debug\net7.0\ExCore.RFS.Utils.Repository.AssemblyInfo.cs
+D:\Project\Template\NET\ExCore.RFS\ExCore.RFS.Utils.Repository\obj\Debug\net7.0\ExCore.RFS.Utils.Repository.csproj.CoreCompileInputs.cache
+D:\Project\Template\NET\ExCore.RFS\ExCore.RFS.Utils.Repository\obj\Debug\net7.0\ExCore.RFS.Utils.Repository.csproj.CopyComplete
+D:\Project\Template\NET\ExCore.RFS\ExCore.RFS.Utils.Repository\obj\Debug\net7.0\ExCore.RFS.Utils.Repository.dll
+D:\Project\Template\NET\ExCore.RFS\ExCore.RFS.Utils.Repository\obj\Debug\net7.0\refint\ExCore.RFS.Utils.Repository.dll
+D:\Project\Template\NET\ExCore.RFS\ExCore.RFS.Utils.Repository\obj\Debug\net7.0\ExCore.RFS.Utils.Repository.pdb
+D:\Project\Template\NET\ExCore.RFS\ExCore.RFS.Utils.Repository\obj\Debug\net7.0\ref\ExCore.RFS.Utils.Repository.dll
